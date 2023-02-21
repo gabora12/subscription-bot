@@ -1,19 +1,5 @@
-// |****  ⚠️ ALL COPYRIGHTS GOSE TO DEF(http://discord.com/users/933856726770413578) ⚠️  ****|
-// |****  ⚠️ ALL COPYRIGHTS GOSE TO DEF(http://discord.com/users/933856726770413578) ⚠️  ****|
-// |****  ⚠️ ALL COPYRIGHTS GOSE TO DEF(http://discord.com/users/933856726770413578) ⚠️  ****|
 
-// did you see casperMusic? chack out: https://discord.gg/ws9jA2cR5s
 
-/**
-   ⚠️ stop right there ⚠️
-   did you know you are stealing my project when you remove the copyright?
-   you can just contact me http://discord.com/users/933856726770413578 for publish it
-   or if you are using it for your server know the no one will see the copyrights only you in the project
-   so why you are removing it?, be nice and just leave it
-   |****  ⚠️ ALL COPYRIGHTS GOSE TO DEF(http://discord.com/users/933856726770413578) ⚠️  ****|
-   |****  ⚠️ ALL COPYRIGHTS GOSE TO DEF(http://discord.com/users/933856726770413578) ⚠️  ****|
-   |****  ⚠️ ALL COPYRIGHTS GOSE TO DEF(http://discord.com/users/933856726770413578) ⚠️  ****|
- */
 
 const Discord = require("discord.js");
 const fs = require("fs");
